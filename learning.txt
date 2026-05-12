@@ -1,4 +1,4 @@
-One important thing I have learned in this course is how to use Github for version control and collaboration.
+What I have learned from this course: One important thing I have learned in this course is how to use Github for version control and collaboration.
 I learned how to
 create repositories,
 manage branches,
